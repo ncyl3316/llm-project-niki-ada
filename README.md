@@ -1,7 +1,6 @@
-# AI LLM Project
+# LLM_Project_Niki_Ada
 
 ## Overview
-This project is a comprehensive template designed to facilitate the development and fine-tuning of Large Language Models (LLMs). It provides a modular and organized structure for handling all aspects of an AI/LLM project, from data preprocessing to model evaluation and deployment. Whether you are building a model from scratch or fine-tuning an existing pre-trained LLM, this template will serve as a solid foundation for your work.
 
 ## Features
 - **Modular Structure**: Organized directories and files for clean and maintainable code.
