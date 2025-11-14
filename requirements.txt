@@ -2,3 +2,8 @@
 # Author: Your Name 
 # Date: 29-12-2024 
 # Description: Contains a list of Python libraries and their versions required to run the project. 
+torch>=2.0.0
+transformers>=4.40.0
+accelerate>=0.30.0
+bitsandbytes>=0.43.0
+gradio>=4.0.0
