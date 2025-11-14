@@ -12,11 +12,11 @@ ai-llm-project/
 ├── LICENSE                  # Licensing information
 ├── .gitignore               # Files and directories to be ignored by Git
 ├── requirements.txt         # Python dependencies
-├── setup.py                 # Packaging and distribution script
-├── src/                     # Source code
-│   ├── __init__.py          # Initializes the src package
-├── tests/                   # Unit tests
-│   ├── test_data_loader.py  # Tests for data loading
+├── demo.py                  # Test implementation
+├── src/                     # File source
+│   ├── model.py             # Implement the functions
+├── tests/                   # Tests
+│   ├── test_model.py        # Verify core functionality
 ```
 
 ## Prerequisites
