@@ -3,12 +3,7 @@
 ## Overview
 
 ## Features
-- **Modular Structure**: Organized directories and files for clean and maintainable code.
-- **Data Handling**: Modules for loading, preprocessing, and managing datasets.
-- **Model Training and Fine-Tuning**: Scripts for training and fine-tuning LLMs.
-- **Evaluation**: Utilities to measure model performance using custom metrics.
-- **Scalability**: Ready-to-use configuration files for scaling from local development to production.
-- **Automation**: Scripts for automating repetitive tasks like training and evaluation.
+
 
 ## Directory Structure
 ```
@@ -67,25 +62,6 @@ ai-llm-project/
 - **Git**: Version control system.
 - **Jupyter Notebook**: For running `.ipynb` files (optional).
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ai-llm-project.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd ai-llm-project
-   ```
-3. Create a virtual environment and activate it:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate   # On Windows: venv\Scripts\activate
-   ```
-4. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 1. **Data Preparation**: Place raw datasets in the `data/raw` directory.
 2. **Preprocessing**: Use `src/data/data_preprocessor.py` to preprocess the data.
@@ -93,8 +69,6 @@ ai-llm-project/
 4. **Evaluation**: Use `scripts/evaluate.py` to evaluate model performance.
 5. **Predictions**: Generate predictions using `scripts/predict.py`.
 
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
 ## License
 This project is licensed under the terms specified in the `LICENSE` file.
