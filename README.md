@@ -2,12 +2,10 @@
 
 ## Overview
 
-## Features
-
 
 ## Directory Structure
 ```
-ai-llm-project/
+llm_project_niki_ada/
 ├── README.md                # Project overview and instructions
 ├── LICENSE                  # Licensing information
 ├── .gitignore               # Files and directories to be ignored by Git
