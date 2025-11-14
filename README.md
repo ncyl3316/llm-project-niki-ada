@@ -13,47 +13,10 @@ ai-llm-project/
 ├── .gitignore               # Files and directories to be ignored by Git
 ├── requirements.txt         # Python dependencies
 ├── setup.py                 # Packaging and distribution script
-├── pyproject.toml           # Project configuration
-├── config.yaml              # Default configuration file
 ├── src/                     # Source code
 │   ├── __init__.py          # Initializes the src package
-│   ├── data/                # Data handling modules
-│   │   ├── __init__.py
-│   │   ├── data_loader.py   # Data loading logic
-│   │   ├── data_preprocessor.py # Data preprocessing steps
-│   ├── models/              # Model modules
-│   │   ├── __init__.py
-│   │   ├── base_model.py    # Base model architecture
-│   │   ├── fine_tune.py     # Fine-tuning logic
-│   ├── utils/               # Utility functions
-│   │   ├── __init__.py
-│   │   ├── file_utils.py    # File operation helpers
-│   │   ├── logger.py        # Logging utilities
-│   ├── evaluation/          # Evaluation modules
-│       ├── __init__.py
-│       ├── metrics.py       # Evaluation metrics
-│       ├── evaluate.py      # Evaluation scripts
 ├── tests/                   # Unit tests
 │   ├── test_data_loader.py  # Tests for data loading
-│   ├── test_fine_tune.py    # Tests for fine-tuning
-│   ├── test_metrics.py      # Tests for evaluation metrics
-├── notebooks/               # Jupyter notebooks
-│   ├── data_exploration.ipynb # Dataset exploration and visualization
-│   ├── model_training.ipynb  # Model training workflow
-├── data/                    # Dataset storage
-│   ├── raw/                 # Raw datasets
-│   ├── processed/           # Processed datasets
-├── scripts/                 # Standalone scripts
-│   ├── train.py             # Script for training models
-│   ├── predict.py           # Script for generating predictions
-├── docs/                    # Documentation
-│   ├── index.md             # Documentation index
-│   ├── api_reference.md     # API reference documentation
-├── configs/                 # Configuration files
-│   ├── default_config.yaml  # Default configuration settings
-│   ├── dev_config.yaml      # Development configuration settings
-├── logs/                    # Log files
-├── checkpoints/             # Saved model checkpoints
 ```
 
 ## Prerequisites
