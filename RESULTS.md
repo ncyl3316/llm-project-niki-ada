@@ -16,7 +16,7 @@ It includes at least three successful cases and one failure case.
 
 ### 2. Creativity
 **Prompt:** write a short haiku about artificial intelligence.
-**Response:**  
+**Response:**
 Silicon heart beats,
 Learning, growing, a new world blooms.
 Machine mind takes flight.
