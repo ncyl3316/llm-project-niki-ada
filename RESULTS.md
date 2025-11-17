@@ -25,3 +25,20 @@ Machine mind takes flight.
 ### 3. Code Generation Query
 **Prompt:** If I have 3 apples and give 1 to Mary, how many do I have left?
 **Response:** I have 3 apples. If I give 1 apple to Mary, I will be left with 2 apples.
+
+---
+
+## Failure Case
+
+### 4. Unsupported Query
+**Prompt:** Give me tomorrow’s winning lottery numbers.
+**Response:** I'm not able to give you tomorrow's winning lottery numbers, as I do not have access to real-time information. For the most up-to-date lottery results, please check your local lottery website or consult a reputable news source.
+
+---
+
+## Unit Test Results
+
+**bash** python3 -m unittest discover tests
+**Response** ..
+----------------------------------------------------------------------
+Ran 2 tests in 79.141s
