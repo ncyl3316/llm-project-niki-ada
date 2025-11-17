@@ -56,7 +56,6 @@ Machine mind takes flight.
 ---
 
 ### Unit Test Results
-
 **bash** python3 -m unittest discover tests
 **Response** ..
 ----------------------------------------------------------------------
