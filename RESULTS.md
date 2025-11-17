@@ -10,7 +10,6 @@ It includes at least three successful cases and one failure case.
 ### 1. Factual Accuracy
 **Prompt:** What is the capital of Japan?  
 **Response:** Tokyo is the capital city of Japan. It is a major metropolitan area and the largest city in the country by population.
-
 **Evaluation:** Correct. The model answered factually and accurately.
 
 ---
