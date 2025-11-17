@@ -1,8 +1,5 @@
 # LLM_Project_Niki_Ada
 
-## Overview
-
-
 ## Directory Structure
 ```
 llm_project_niki_ada/
@@ -17,22 +14,21 @@ llm_project_niki_ada/
 │   ├── test_model.py        # Verify core functionality
 ```
 
+## Installation
+Clone the repository and install dependencies:
+
+```bash
+python3 -m venv ~/.venv_gr
+source ~/.venv_gr/bin/activate
+git clone https://github.com/<your-username>/llm-project-niki-ada.git
+cd llm-project-niki-ada
+pip install -r requirements.txt
+```
+
 ## Prerequisites
 - **Python**: Version 3.8 or higher.
 - **Libraries**: Listed in `requirements.txt`.
 - **Git**: Version control system.
-- **Jupyter Notebook**: For running `.ipynb` files (optional).
-
-## Usage
-1. **Data Preparation**: Place raw datasets in the `data/raw` directory.
-2. **Preprocessing**: Use `src/data/data_preprocessor.py` to preprocess the data.
-3. **Training**: Run `scripts/train.py` to train or fine-tune the model.
-4. **Evaluation**: Use `scripts/evaluate.py` to evaluate model performance.
-5. **Predictions**: Generate predictions using `scripts/predict.py`.
-
 
 ## License
 This project is licensed under the terms specified in the `LICENSE` file.
-
-## Contact
-For questions or feedback, please contact [Your Name] at [your-email@example.com].
