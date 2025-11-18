@@ -25,6 +25,11 @@ cd llm-project-niki-ada
 pip install -r requirements.txt
 ```
 
+## Link in Video
+- **video1** https://youtu.be/e_g25I7x1lY
+- **video2** https://youtu.be/WYpNmvhYp5U
+- **video3** https://youtu.be/B7l_Y6n-jkQ
+
 ## Prerequisites
 - **Python**: Version 3.8 or higher.
 - **Libraries**: Listed in `requirements.txt`.
